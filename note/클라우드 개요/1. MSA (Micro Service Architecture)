@@ -1,0 +1,25 @@
+### MSA (Micro Service Architecture)   
+
+기존에 하나로 되어있던 어플리케이션을 비즈니스적 관점에서 독립적으로 배포 가능, 실행이 가능한 업무 단위인 마이크로 서비스 블록으로 나눠 이를 `Restful API`와 같이 심플한 방법으로 상호 통신하고 연계해 응용프로그램을 구성하는 소프트웨어 아키텍처      
+
+-> 유연한 소프트웨어 시스템 개발 운영 가능  
+
+- Micro Service Architecture의 기본 구조  
+![MSA with Azure](https://docs.microsoft.com/ko-kr/dotnet/architecture/microservices/multi-container-microservice-net-applications/media/microservice-application-design/eshoponcontainers-reference-application-architecture.png)   
+[그림. MSA를 사용한 서비스 구조 예시]  
+
+1. 모바일 및 SPA(simple page appllication)  
+    위의 다이어그램에서는 모바일 및 `SPA` 클라이언트가 단일 API 게이트웨이 엔드포인트와 통신한 다음, 엔드포인트와 통신합니다. 일반적인 웹 클라이언트는 API 게이트웨이를 통해 마이크로 서비스와 통신하는 `MVC` 마이크로 서비스와 통신합니다.
+    
+    ##### SPA (simple page application)
+    - SPA란 Single Page Application의 약자이다.
+        - 현재 웹개발의 트랜드인 단일 페이지 어플리케이션(SPA)
+            기존 웹 서비스: 요청시마다 서버로부터 리소스들과 데이터를 해석하고 화면에 렌더링하는 방식
+            SPA: 브라우저에 최초에 한번 페이지 전체를 로드하고, 이후부터는 특정 부분만 Ajax를 통해 데이터를 바인딩하는 방식  
+        ![spa](https://linked2ev.github.io/assets/img/devlog/201808/2018-08-01-SPA-step1.png)  
+            
+    ##### MVC 
+    - MVC: Model, View, Controller
+         - 하나의 애플리케이션, 프로젝트를 구성할 때 그 구성요소를 세가지의 역할로 구분한 패턴
+         ![mvc](https://mblogthumb-phinf.pstatic.net/MjAxNzAzMjVfMjUw/MDAxNDkwNDM4NzI4MTIy.4ZtITJJKJW_Nj1gKST0BhKMAzqmMaYIj9PobYJMFD4Ig.xTHT-0qyRKXsA4nZ2xKPNeCxeU2-tLIc-4oyrWq5WBgg.PNG.jhc9639/mvc_role_diagram.png?type=w800)  
+         *mvc 참고링크 [mvc](https://m.blog.naver.com/jhc9639/220967034588)
