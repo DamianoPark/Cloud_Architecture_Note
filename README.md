@@ -1,9 +1,9 @@
 # Cloud_Architecture_BootCamp
 ## SK C&C Intern  
 ---
-- 클라우드 조사 자료  
+### 클라우드 조사 자료  
 ---
-- Index
+#### Index
   - 0. 클라우드 개요  
   - 1. MSA 마이크로 서비스 아키텍처 
     - 1-1. API , RESTful API   
