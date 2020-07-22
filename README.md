@@ -4,7 +4,7 @@
 ### 클라우드 조사 자료  
 ---
 #### Index
-  - 0. 클라우드 개요  
+  - 0. [클라우드 개요](https://github.com/DamianoPark/Cloud_Architecture_BootCamp/blob/master/note/0.%20What%20is%20Cloud.md)  
   - 1. MSA 마이크로 서비스 아키텍처 
     - 1-1. API , RESTful API   
     - 1-2. API Gateway, Service Mesh  
