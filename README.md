@@ -1,4 +1,4 @@
-# Cloud_Architecture_BootCamp
+# Cloud_Architecture_Note
 ## SK C&C Intern  
 ---
 ### 클라우드 조사 자료  
