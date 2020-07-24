@@ -19,6 +19,8 @@
     - 3-3. [LB : LoadBalancer](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/3-3.%20LoadBanlancer.md)
     - 3-4. [VPC](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/3-4.%20VPC.md)
     - 3-5. [Bastion Host](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/3-5.%20Bastion%20Host.md)
-  - 4. KubeFlow : ML workflow iwth K8s 
-    - 4-1. [KubeFlow](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/4-1.%20KubeFlow.md)
+  - 4. GCP  
+    - 4-1. [GCP : Google Cloud Platform](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/4-1.%20GCP-Google%20Cloud%20Platform.md)
+  - 5. KubeFlow : ML workflow iwth K8s 
+    - 5-1. [KubeFlow](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/5-1.%20KubeFlow.md)
     
