@@ -13,7 +13,7 @@
     - 2-2. [Kubernetes](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/2-2.%20Kubernetes.md)
     - 2-3. [쿠버네티스 구성요소](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/2-3.%20Kubernetes%20Components.md)  
   - 3. AWS Cloud 아키텍처
-    - 3-0. [AWS 접속](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/3-1-1.%20AWS%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%20%EC%A0%91%EC%86%8D.md)
+    - 3-0. [AWS 접속](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/3-0.%20AWS%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%20%EC%A0%91%EC%86%8D.md)
     - 3-1. [AWS EC2](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/3-1.%20AWS%20EC2.md)
     - 3-2. [AWS IAM](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/3-2.%20AWS%20IAM.md)
     - 3-3. [LB : LoadBalancer](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/3-3.%20LoadBanlancer.md)
