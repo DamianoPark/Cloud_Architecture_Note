@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mpg
+  labels:
+    app: mpg
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: mpg
+  template:
+    metadata:
+      labels:
+        app: mpg
+    spec:
+      containers:
+      - name: auto
+        image: gcr.io/macro-authority-266522/auto:0.17
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 5000
