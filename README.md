@@ -1,7 +1,10 @@
 # Cloud_Architecture_Note
 ## SK C&C Intern  
 ---
-### NOTE : 클라우드 조사 자료  
+### NOTE : 클라우드 조사 자료   
+- 클라우드 아키텍처에 필요한 구성 요소들에 대해 조사
+- AWS 와 GCP를 통해 해당 구성 요소들의 작동에 대해 조사
+- Micro Service 를 배포 해보며 MSA 요소 조사
 ---
 #### Index
   - 0. [클라우드 개요](https://github.com/DamianoPark/Cloud_Architecture_BootCamp/blob/master/note/0.%20What%20is%20Cloud.md)  
@@ -26,6 +29,10 @@
     - 5-2. [Machine Learning with Docker K8S](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/5-2.%20Machine%20Learning%20with%20Docker%20K8S.md)
 ---
 ### PRACTICE : 클라우드 실습 자료  
+- 클라우드에서 제공하는 다양한 서비스를 활용하며 비즈니스 가치 탐색
+- AI를 활용한 클라우드 서비스 실습
+- 쿠버네티스를 활용하여 배포와 CI/CD에 효율적인 머신러닝 파이프라인 구축
+---
 #### Index  
   - 1. [AWS Practice](https://github.com/DamianoPark/Cloud_Architecture_Note/tree/master/practice)
     - 1. 빅데이터 데이터베이스 - Dynamo DB 
