@@ -1,7 +1,7 @@
 # Cloud_Architecture_Note
 ## SK C&C Intern  
 ---
-### 클라우드 조사 자료  
+### NOTE : 클라우드 조사 자료  
 ---
 #### Index
   - 0. [클라우드 개요](https://github.com/DamianoPark/Cloud_Architecture_BootCamp/blob/master/note/0.%20What%20is%20Cloud.md)  
@@ -23,4 +23,4 @@
     - 4-1. [GCP : Micro Service 배포](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/4-1.%20GCP-Google%20Cloud%20Platform.md)
   - 5. KubeFlow : ML workflow iwth K8s 
     - 5-1. [KubeFlow](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/5-1.%20KubeFlow.md)
-    
+    - 5-2. [Machine Learning with Docker K8S]
