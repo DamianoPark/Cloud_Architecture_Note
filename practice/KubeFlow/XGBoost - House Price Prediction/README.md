@@ -1,10 +1,4 @@
-### Train locally
-
-```
-python HousingTrain.py --model-file=trained_ames_model.dat --train-input=ames_dataset/train.csv
-```
-
-### Serve on your local Kubernetes cluster
+### Serving on Kubernetes cluster
 
 Add the bellow line and set your working directory which stroed the following files:`HousingServe.py`,`requirements.txt` and `trained_ames_model.dat`
 
