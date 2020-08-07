@@ -41,4 +41,5 @@
   - 2. [ML with K8S - MilesPerGallonPrediction](https://github.com/DamianoPark/Cloud_Architecture_Note/tree/master/practice)
 ##### 빠른 배포가 가능한 Machine Learning Pipeline 구축 with K8S , KubeFlow
   - 3. KubeFlow ML  
-    -1. XGBoost - 
+    - 1. XGBoost - House Price Predictin  
+    
