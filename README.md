@@ -34,7 +34,12 @@
 - 쿠버네티스를 활용하여 배포와 CI/CD에 효율적인 머신러닝 파이프라인 구축
 ---
 #### Index  
+##### Cloud를 통한 AI 서비스 
   - 1. [AWS Practice](https://github.com/DamianoPark/Cloud_Architecture_Note/tree/master/practice)
     - 1. 빅데이터 데이터베이스 - Dynamo DB 
     - 2. AWS 라이트세일, 인공지능 홈페이지 생성
   - 2. [ML with K8S - MilesPerGallonPrediction](https://github.com/DamianoPark/Cloud_Architecture_Note/tree/master/practice)
+##### 빠른 배포가 가능한 Machine Learning Pipeline 구축 with K8S , KubeFlow
+  - 3. KubeFlow ML  
+    - 1. XGBoost - House Price Predictin  
+    
