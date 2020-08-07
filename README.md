@@ -36,5 +36,5 @@
 #### Index  
   - 1. [AWS Practice](https://github.com/DamianoPark/Cloud_Architecture_Note/tree/master/practice)
     - 1. 빅데이터 데이터베이스 - Dynamo DB 
-    - 2. 2. AWS 라이트세일, 인공지능 홈페이지 생성
+    - 2. AWS 라이트세일, 인공지능 홈페이지 생성
   - 2. [ML with K8S - MilesPerGallonPrediction](https://github.com/DamianoPark/Cloud_Architecture_Note/tree/master/practice)
