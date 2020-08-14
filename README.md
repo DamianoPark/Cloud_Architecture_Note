@@ -27,6 +27,9 @@
   - 5. KubeFlow : ML workflow iwth K8s 
     - 5-1. [KubeFlow](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/5-1.%20KubeFlow.md)
     - 5-2. [Machine Learning with Docker K8S](https://github.com/DamianoPark/Cloud_Architecture_Note/blob/master/note/5-2.%20Machine%20Learning%20with%20Docker%20K8S.md)
+  
+  
+
 ---
 ### PRACTICE : 클라우드 실습 자료  
 - 클라우드에서 제공하는 다양한 서비스를 활용하며 비즈니스 가치 탐색
@@ -41,5 +44,7 @@
   - 2. [ML with K8S - MilesPerGallonPrediction](https://github.com/DamianoPark/Cloud_Architecture_Note/tree/master/practice)
 ##### 빠른 배포가 가능한 Machine Learning Pipeline 구축 with K8S , KubeFlow
   - 3. KubeFlow ML  
-    - 1. XGBoost - House Price Predictin  
+    - 1. XGBoost - House Price Predictin   
+---
+
     
