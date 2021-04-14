@@ -1,5 +1,5 @@
 # Cloud_Architecture_Note
-## SK C&C Intern  
+
 ---
 ### NOTE : 클라우드 조사 자료   
 - 클라우드 아키텍처에 필요한 구성 요소들에 대해 조사
